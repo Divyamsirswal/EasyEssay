@@ -1,7 +1,7 @@
 # AI Essay Generator CLI
 
-![AI Essay Generator CLI Screenshot1](./assets/image1.png)
-![AI Essay Generator CLI Screenshot2](./assets/image.png)
+![1st](./assets/image1.png)
+![2nd](./assets/image.png)
 
 #### A feature-rich, minimalistic command-line tool that leverages Cohere’s powerful text-generation API to create high-quality essays. Designed for writers, students, researchers, and professionals, this tool offers a suite of advanced features—including batch generation, outline/summary production, side-by-side essay comparison, and more—while maintaining a clean and efficient user interface.
 
